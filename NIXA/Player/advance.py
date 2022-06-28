@@ -32,8 +32,8 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/TechQuard"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/TechQuardSupport")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/NVR_GIB_UP"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIENDS_DRAMA_CLUB012")
         ],
         [
         Button.url("ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
