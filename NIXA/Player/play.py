@@ -139,8 +139,8 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton("‣‣I", "skip"),
                       InlineKeyboardButton("▷", callback_data="cbresume"),
                   ],[
-                      InlineKeyboardButton(text="🥂 ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                      InlineKeyboardButton(text="🍷 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                      InlineKeyboardButton(text="🥂 ɢʀᴏᴜᴘ", url=f"https://t.me/FRIENDS_DRAMA_CLUB012"),
+                      InlineKeyboardButton(text="🍷 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/NVR_GIB_UP"),
                   ],[
                       InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")],
                   ]
