@@ -94,7 +94,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/NVR_GIB_UP"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Sumit9969/NIXA-MUSIC-BOT"),
+                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/Huvaris/NIXA-MUSIC-BOT"),
             ],
             [
                 InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
