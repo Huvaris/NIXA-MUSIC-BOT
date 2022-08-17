@@ -90,7 +90,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ],
             [
-                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/FRIENDS_DRAMA_CLUB012"),
+                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/SECRET_SOCIETY_014"),
                 InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/NVR_GIB_UP"),
             ],
             [
